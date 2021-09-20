@@ -1,0 +1,14 @@
+h3{
+    font-size: 50px !important;
+    color: goldenrod !important;
+    font-family: cursive !important;
+    font-style: italic !important;
+}
+.btn-success:hover{
+    background-color: royalblue;
+}
+canvas{
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
